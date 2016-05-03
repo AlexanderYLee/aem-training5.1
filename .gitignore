@@ -1,4 +1,6 @@
-.idea/
 *.iml
-*.class
-*.jar
+*.ipr
+*.iws
+**/target/
+*.log
+.idea/
